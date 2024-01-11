@@ -1,0 +1,23 @@
+.transactionHistory {
+  margin: 50px auto 10px auto;
+  border: solid 1px lightgray;
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgb(169, 211, 237);
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tbody:nth-child(even) {
+  background-color: rgb(217, 248, 248);
+}
+
+.trow {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.data {
+  min-width: 100px;
+}

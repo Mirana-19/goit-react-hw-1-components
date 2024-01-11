@@ -1,0 +1,17 @@
+.statistics {
+  width: 300px;
+  margin: 30px auto 0 auto;
+  padding-top: 10px;
+
+  text-align: center;
+  background-color: #fff;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+
+  border-radius: 4px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  overflow: hidden;
+}
